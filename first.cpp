@@ -4,7 +4,9 @@ void main()
 {
     clrscr();
     int a, b, c;
-    cout<<"something";
-     cout<<"hello world";
-     getch();
+    cout<<"enter any two number";
+    cin>>a>>b;
+    c=a+b;
+    cout<<"sum="<<c;
+      getch();
 }
