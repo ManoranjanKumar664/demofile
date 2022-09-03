@@ -9,6 +9,7 @@ void main()
 }
 void mano()
 { 
+cout<<"this is my first program";
 int a, b, c;
 cout<<"enter any two number";
 cin>>a>>b;
