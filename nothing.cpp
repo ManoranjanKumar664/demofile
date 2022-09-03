@@ -1,8 +1,16 @@
 #include<iostream.h>
 #include<conio.h>
+void nochecking();
 void main()
 {
      clrscr();
+ nochecking();
+positiveornegative();
+getch();
+}
+
+void nochecking()
+{
       cout<<"enter any no.";
       cin>>a;
       if(a%2==0)
@@ -13,4 +21,24 @@ void main()
       {
         cout<<"odd""
       }
+}
+
+
+void positiveornegative()
+{
+ int b;
+cout<<"enter any two number";
+cin>>b;
+if(a==0)
+{
+cout<<"neither negative nor positive"<<endl;
+}
+else if(a<0)
+{
+cout<<"negative"<<endl;
+}
+else
+{
+cout<<"positive"<<endl;
+}
 }
