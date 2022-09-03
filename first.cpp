@@ -5,6 +5,7 @@ void oddoreven();
 void main()
 {
  clrscr();
+cout<<"this is program to add two number";
  int a, b, c;
 cout<<"enter the value of a and b";
 cin>>a>>b;
