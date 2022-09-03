@@ -8,7 +8,8 @@ void main()
 added();
 check();
 positiveornegative();
-getch();
+cout<<"so these are some of the changes i have done";
+ getch();
 }
 
 void nochecking()
