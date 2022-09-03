@@ -9,7 +9,11 @@ void main()
 }
 void mano()
 { 
-cout<<"manoranjan";
+int a, b, c;
+cout<<"enter any two number";
+cin>>a>>b;
+c=a+b;
 cout<<"sum="<<c;
+cout<<"and this is my code";
    cout<<"have to go there";
 }
