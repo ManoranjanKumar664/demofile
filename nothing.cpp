@@ -5,6 +5,8 @@ void main()
 {
      clrscr();
  nochecking();
+added();
+check();
 positiveornegative();
 getch();
 }
@@ -41,4 +43,23 @@ else
 {
 cout<<"positive"<<endl;
 }
+}
+
+void check()
+{
+cout<<"enter any no";
+cin>>x;
+if(x<10)
+{
+cout<<"right";
+}
+else
+{
+cout<<"wrong";
+}
+}
+
+void added()
+{
+cout<<"this is name manoranjan";
 }
