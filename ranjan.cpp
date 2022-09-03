@@ -22,3 +22,8 @@ cout<<"sum="<<c;
 cout<<"and this is my code";
    cout<<"have to go there";
 }
+
+void nothing()
+{
+cout<<"hello world";
+}
