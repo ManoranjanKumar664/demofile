@@ -18,6 +18,7 @@ cout<<"sum="<<c;
 <<<<<<< HEAD
 =======
 oddoreven();
+<<<<<<< HEAD
 >>>>>>> mano
  getch();
  }
@@ -49,5 +50,8 @@ else
 {
  cout<<"odd";
 }
+>>>>>>> mano
+=======
+getch();
 >>>>>>> mano
 }
