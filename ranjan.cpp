@@ -8,6 +8,8 @@ void main()
   getch();
 }
 void mano()
-{
+{ 
+cout<<"manoranjan";
+cout<<"sum="<<c;
    cout<<"have to go there";
 }
