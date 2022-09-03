@@ -9,8 +9,5 @@ cin>>a>>b;
 c=a+b;
 cout<<"sum="<<c;
  cout<<"hello world";
-
-c=a-b;
-cout<<"difference="<<c;
  getch();
  }
