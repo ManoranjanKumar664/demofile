@@ -5,10 +5,9 @@ void main()
 {
   clrscr();
   mano();
-<<<<<<< HEAD
+cout<<"aadd anyfile";
+cout<<"added something";
 cout<<"get nothing";
-=======
->>>>>>> somefile
 cout<<"do goo and get good";
   getch();
 }
