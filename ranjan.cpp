@@ -5,6 +5,10 @@ void main()
 {
   clrscr();
   mano();
+<<<<<<< HEAD
+=======
+cout<<"aadd anyfile";
+>>>>>>> everyfile
 cout<<"added something";
 cout<<"get nothing";
 cout<<"do goo and get good";
