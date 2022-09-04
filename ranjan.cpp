@@ -5,7 +5,10 @@ void main()
 {
   clrscr();
   mano();
+<<<<<<< HEAD
 cout<<"get nothing";
+=======
+>>>>>>> somefile
 cout<<"do goo and get good";
   getch();
 }
