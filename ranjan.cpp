@@ -5,6 +5,7 @@ void main()
 {
   clrscr();
   mano();
+cout<<"do goo and get good";
   getch();
 }
 void mano()
